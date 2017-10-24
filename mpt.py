@@ -1,4 +1,5 @@
 # from https://github.com/yhilpisch/py4fi/blob/master/ipython3/11_Statistics_a.ipynb
+# http://www.ebooksbucket.com/uploads/economicsandfinance/finance/Python_for_Finance.pdf chapter 11
 
 import numpy as np
 import pandas as pd
